@@ -1,4 +1,6 @@
+![](https://github.com/jhowwboni/Sistema-de-Gestao-de-Estoque-para-Pequena-Empresa/blob/main/baner.jpeg)
 ## Sistema de Gestão de Estoque para Pequena Empresa
+
 Este sistema foi criado para facilitar a gestão de estoque em pequenas empresas. Ele centraliza informações sobre produtos, categorias, movimentações de estoque e fornecedores, permitindo um controle de estoque eficiente e a manutenção de um registro detalhado das operações.
 
 ### Tabelas Implementadas
