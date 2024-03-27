@@ -33,9 +33,9 @@ fornecedores, tornando mais fácil o contato e a gestão das compras.
 -  Sistema de gerenciamento de banco de dados SQLite.
 -  IDE recomendada: IntelliJ IDEA (ou outra IDE de sua preferência, como Visual
 Studio Code, etc.).
-Configuração
+### Configuração
 Clone o repositório:
-git clone [url-do-repositorio]
+git clone https://github.com/jhowwboni/Sistema-de-Gestao-de-Estoque-para-Pequena-Empresa.git
 
 ### Uso
 
